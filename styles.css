@@ -1,0 +1,27 @@
+/* add your CSS here */
+body{
+	border: solid 1px;
+	}
+h3{
+	padding-left:30px; 
+	padding-bottom:20px;  
+	font-weight: bold;
+}
+div{
+border: groove;
+}
+span{
+	font-weight:bold;}
+img{
+	padding-bottom: 20px;
+	padding-left: 30px;
+	height: 200px;
+	width: 300px;
+}
+#demo{
+	padding-left: 30px;
+	font-style: italic;
+}
+p{
+	padding-left: 30px;
+}
